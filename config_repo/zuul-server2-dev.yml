@@ -5,7 +5,7 @@ zuul:
   ignored-services: '*'
   routes:
     consumer_route:
-      serviceId: consumer-service
+      serviceId: consumer-service2
       path: /consumer_service/**
 eureka:
   client:
