@@ -7,5 +7,5 @@ spring:
     config:
       server:
         git:
-          uri:
-          search-paths:
+          uri: https://github.com/wangxiechen/cloud_demo.git
+          search-paths: config-repo
