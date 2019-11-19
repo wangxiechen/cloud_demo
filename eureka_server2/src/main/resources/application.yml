@@ -1,6 +1,6 @@
 spring:
   application:
-    name: eureka-server2  #应用名称
+    name: eureka-server  #应用名称
   cloud:
     config:
       uri: http://localhost:7001/
